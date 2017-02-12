@@ -423,7 +423,7 @@
 	<key>LeftOption</key>
 	<integer>2</integer>
 	<key>LoadPrefsFromCustomFolder</key>
-	<true/>
+	<string>True</string>
 	<key>MaxVertically</key>
 	<false/>
 	<key>NSNavLastRootDirectory</key>
@@ -449,7 +449,7 @@
 		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
 		hAErATGG
 		</data>
-		<string>307</string>
+		<string>322</string>
 	</array>
 	<key>NSTableView Hidden Columns KeyBingingTable</key>
 	<array/>
@@ -463,15 +463,15 @@
 	<key>NSWindow Frame Preferences</key>
 	<string>311 400 606 456 0 0 1440 877 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
-	<string>498 427 384 129 0 0 1440 877 </string>
+	<string>498 427 400 129 0 0 1440 877 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>410 364 620 392 0 0 1440 877 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>831 440 796 473 0 0 2560 1417 </string>
+	<string>277 187 937 512 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>183 424 572 453 0 0 1440 877 </string>
+	<string>0 424 572 453 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>0 135 1139 742 0 0 1440 877 </string>
+	<string>242 363 572 453 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
 	<string>560 741 586 453 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
@@ -1124,7 +1124,7 @@
 			<key>Shortcut</key>
 			<string></string>
 			<key>Silence Bell</key>
-			<false/>
+			<true/>
 			<key>Smart Cursor Color</key>
 			<true/>
 			<key>Smart Selection Rules</key>
@@ -1248,6 +1248,8 @@
 			<string>/Users/julian</string>
 		</dict>
 	</array>
+	<key>NoSyncCommandHistoryHasEverBeenUsed</key>
+	<true/>
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
 	<true/>
 	<key>NoSyncInstallationId</key>
@@ -1402,7 +1404,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2016-11-06T04:35:04Z</date>
+	<date>2017-02-11T18:43:17Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>ShowBookmarkName</key>
@@ -1450,7 +1452,7 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.0.12</string>
+	<string>3.0.14</string>
 	<key>kCPFavoritesUserDefaultsKey</key>
 	<array>
 		<data>
