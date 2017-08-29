@@ -412,6 +412,8 @@
 	<integer>96</integer>
 	<key>HotkeyCode</key>
 	<integer>50</integer>
+	<key>HotkeyMigratedFromSingleToMulti</key>
+	<true/>
 	<key>HotkeyModifiers</key>
 	<integer>524576</integer>
 	<key>IRMemory</key>
@@ -451,7 +453,7 @@
 		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
 		hAErATGG
 		</data>
-		<string>322</string>
+		<string>315</string>
 	</array>
 	<key>NSTableView Hidden Columns KeyBingingTable</key>
 	<array/>
@@ -467,19 +469,19 @@
 	<key>NSWindow Frame Preferences</key>
 	<string>311 400 606 456 0 0 1440 877 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
-	<string>498 427 400 129 0 0 1440 877 </string>
+	<string>498 434 400 129 0 0 1440 877 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>410 364 620 392 0 0 1440 877 </string>
+	<string>370 192 700 622 0 0 1440 877 </string>
 	<key>NSWindow Frame SessionsPreferences</key>
-	<string>269 139 606 456 0 0 2560 1417 </string>
+	<string>506 286 599 388 0 0 1440 877 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>138 360 796 473 0 0 1440 877 </string>
+	<string>1077 787 796 473 0 0 2560 1440 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>99 293 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 32 1436 845 0 0 1440 877 </string>
+	<string>0 374 652 503 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>0 4 2556 1413 0 0 2560 1417 </string>
+	<string>0 0 1440 900 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
 	<string>560 741 586 453 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
@@ -1117,12 +1119,16 @@
 			<true/>
 			<key>Selected Text Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.56363654136657715</real>
+				<real>0.2635684609413147</real>
+				<key>Color Space</key>
+				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.56485837697982788</real>
+				<real>0.8922119140625</real>
 				<key>Red Component</key>
-				<real>0.50599193572998047</real>
+				<real>0.69622126717877109</real>
 			</dict>
 			<key>Selection Color</key>
 			<dict>
@@ -1280,7 +1286,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>CE069794-8E95-4CCD-9B1C-5051D4D4A714</string>
 	<key>NoSyncLastTipTime</key>
-	<real>498432047.47274703</real>
+	<real>524029383.64426702</real>
 	<key>NoSyncPermissionToShowTip</key>
 	<true/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
@@ -1358,6 +1364,12 @@
 		<string>0063</string>
 		<string>0064</string>
 		<string>0065</string>
+		<string>0066</string>
+		<string>0067</string>
+		<string>0068</string>
+		<string>0069</string>
+		<string>0070</string>
+		<string>0071</string>
 	</array>
 	<key>OnlyWhenMoreTabs</key>
 	<true/>
@@ -1429,7 +1441,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-06-08T20:35:35Z</date>
+	<date>2017-08-28T17:54:21Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>ShowBookmarkName</key>
@@ -1481,7 +1493,7 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.0.15</string>
+	<string>3.1.beta.8</string>
 	<key>kCPFavoritesUserDefaultsKey</key>
 	<array>
 		<data>
